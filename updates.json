@@ -1,7 +1,18 @@
 {
   "addons": {
     "pagelingo@local.extension": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.3.0",
+          "update_link": "https://github.com/PetitRobusto/pagelingo-updates/releases/download/v1.3.0/pagelingo-1.3.0.xpi",
+          "update_hash": "sha256:89ae0254bac95ff3ac2e578dcd611ee3b7d59bfea3505b4d201bba85a80a8bd1",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        }
+      ]
     }
   }
 }
