@@ -11,6 +11,16 @@
               "strict_min_version": "142.0"
             }
           }
+        },
+        {
+          "version": "1.4.0",
+          "update_link": "https://github.com/PetitRobusto/pagelingo-updates/releases/download/v1.4.0/pagelingo-1.4.0.xpi",
+          "update_hash": "sha256:5f4e22a4ef3a28fe1db941e0e77fcae651f6d6db9aedc9e4933cf016150339f1",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
         }
       ]
     }
